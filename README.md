@@ -1,2 +1,2 @@
 # New-Website
-It is repository of website
+It is repository of a website
